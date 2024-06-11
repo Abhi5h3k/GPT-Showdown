@@ -18,3 +18,31 @@ https://github.com/Abhi5h3k/GPT-Showdown/assets/37928721/f1fab754-00cf-4af8-b96a
 - **Make a Free ChatGPT API:** 🤭 How about we take our trusty ChatGPT, wrap it up in a neat Flask container, sprinkle in some Selenium magic, and voilà! We've got ourselves a free ChatGPT API ready to serve up endless conversations and insights. Plus, who doesn't love a good freebie, especially when it comes with the power of GPT? And hey, if they change things up later, we'll just enjoy the ride until then! After all, why not make the most of what we have while we have it? 😉✨
 
 ## 😁 Anyway, they will change it soon, why not leverage it till then.
+
+```
+# Python version 3.11.0
+# Clone the project repository from GitHub
+git clone https://github.com/Abhi5h3k/GPT-Showdown.git
+
+# Create a virtual environment named 'gpt_showdown'
+python -m venv gpt_showdown
+
+# Activate the virtual environment
+# On Windows
+.\gpt_showdown\Scripts\activate
+# On macOS/Linux
+source gpt_showdown/bin/activate
+
+# Navigate to the project directory
+cd <project_directory>
+cd GPT-Showdown-main
+
+# Install dependencies from the requirements.txt file
+pip install -r requirements.txt
+
+# If you're behind a proxy, ensure to configure the proxy settings appropriately in pip
+
+# Once dependencies are installed, you can run the main.py script
+python main.py
+```
+
