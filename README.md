@@ -17,7 +17,12 @@ https://github.com/Abhi5h3k/GPT-Showdown/assets/37928721/f1fab754-00cf-4af8-b96a
 
 - **Make a Free ChatGPT API:** 🤭 How about we take our trusty ChatGPT, wrap it up in a neat Flask container, sprinkle in some Selenium magic, and voilà! We've got ourselves a free ChatGPT API ready to serve up endless conversations and insights. Plus, who doesn't love a good freebie, especially when it comes with the power of GPT? And hey, if they change things up later, we'll just enjoy the ride until then! After all, why not make the most of what we have while we have it? 😉✨
 
+![image](https://github.com/Abhi5h3k/GPT-Showdown/assets/37928721/874757a5-40a6-4adc-890e-7bb4ee30ac58)
+
+
 ## 😁 Anyway, they will change it soon, why not leverage it till then.
+
+## Setup : 
 
 ```
 # Python version 3.11.0
