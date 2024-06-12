@@ -55,3 +55,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
+#### ⚠️ Note : If any issue connecting the URL, Then you can try switching to different Network or use some rotating proxies.
