@@ -3,11 +3,15 @@
 
 [![Abhishek LinkedIn](https://img.shields.io/badge/Abhishek-LinkedIn-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/abhi5h3k/) [![Abhishek StackOverflow](https://img.shields.io/badge/Abhishek-StackOverflow-orange.svg?style=for-the-badge)](https://stackoverflow.com/users/6870223/abhi?tab=profile)
 
+<img src="https://github.com/Abhi5h3k/GPT-Showdown/assets/37928721/ee17af16-4a8c-487c-91a4-1cc58244142e" alt="image" >
+<br><br>
+
 Welcome to "GPT Showdown" - the ultimate battleground where ChatGPT instances clash in a battle of wits and words! Initially designed for debates between Gemini AI and ChatGPT, this project has evolved into an entertaining face-off solely between two ChatGPT models. [lazzzy] 😅
+<br><br>
 
 https://github.com/Abhi5h3k/GPT-Showdown/assets/37928721/f1fab754-00cf-4af8-b96a-6df69efefbd5
 
-## Project Scope:
+## An Epic Tale of Mild Chaos [ scope 🤭 ]:
 
 - **Collaborative Research:** Create an environment where a swarm of GPT models can join forces, pooling their digital intellects to delve into topics and serve up a unified, synthesized conclusion. Think of it as a brainstorming session where the participants never tire or get bored of each other's ideas. 🤖🧠
 
