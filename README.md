@@ -44,7 +44,7 @@ source gpt_showdown/bin/activate
 
 # Navigate to the project directory
 cd <project_directory>
-cd GPT-Showdown-main
+cd GPT-Showdown
 
 # Install dependencies from the requirements.txt file
 pip install -r requirements.txt
