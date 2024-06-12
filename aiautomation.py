@@ -6,6 +6,10 @@ class AIAutomation(ABC):
         self.driver = driver
 
     @abstractmethod
+    def click_btn_send_prompt(self):
+        pass
+
+    @abstractmethod
     def set_prompt_value(self, value):
         pass
 
